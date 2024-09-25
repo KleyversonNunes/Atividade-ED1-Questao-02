@@ -3,6 +3,9 @@
 #include <ctime>
 #include "fila.cpp"
 
+// Biblioteca adicionada após a data limite de entrega
+#include <stdio.h>
+
 using namespace std;
 
 int main()
